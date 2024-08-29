@@ -1,12 +1,11 @@
-.button1,.button2{
+.black,.yellow{
     font-size: 28px;
     font-family:Arial, Helvetica, sans-serif;
 }
-.button1{
+.black{
     background-color: black;
     color: white;
 }
-.button2{
+.yellow{
     background-color: yellow;
-    color: black;
-}
+} 
