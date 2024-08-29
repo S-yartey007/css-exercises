@@ -9,16 +9,17 @@
     font-size: 32px;
 }
 .number3{
-    background-color: #fc03fc;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 24px;
 }
 #number4{
-    background-color: green;
+    background-color: rgba(25, 238, 25, 0.829);
     font-size: 24px;
     font-weight: bold;
 }
-.number5{
-    background-color: #fc03fc;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+/* a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
+ */.number1,.number3,.number5 {
+    background-color: #fc03fc81;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+
 }
