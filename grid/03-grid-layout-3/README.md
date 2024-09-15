@@ -9,7 +9,7 @@ Now that you've made your Holy Grail layout responsive, we are going to have som
 - Just like with Flexbox, you can easily center an item by making it into a grid
 - Don't worry about the placeholder image element stretching when resizing the browser window. This will be covered in the Responsive lessons
 
-## Desired Outcome
+## Desired Outcome 
 
 ![desired outcome](./desired-outcome.png)
 
